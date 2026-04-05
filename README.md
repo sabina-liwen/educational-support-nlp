@@ -1,8 +1,6 @@
 # educational-support-nlp
 NLP-based analysis of response types and perceived emotional support in educational dialogue.
 
-# NLP-Based Analysis of Linguistic Features and Perceived Emotional Support in Educational Dialogue
-
 ## Overview
 
 This repository contains an analysis pipeline for examining how linguistic features in teacher responses relate to perceived emotional support in educational dialogue.
